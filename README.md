@@ -35,7 +35,7 @@
 - Function Call
 - Allocations
 
-## 5) Full Cheat Sheet can be found by [clicking here] (https://www.bigocheatsheet.com/)
+## 5) Full Cheat Sheet can be found at https://www.bigocheatsheet.com/
 
 
 
