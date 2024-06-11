@@ -23,3 +23,20 @@
     - for nested steps
 - **Rule 4:** Drop Non-dominant terms
 
+## 3) What Can Cause Time Complexity in a Function?
+- Operations (+, -, *, /)
+- Comparisons (<, >, ==)
+- Looping (for, while)
+- Outside Function call (function())
+
+## 4) What Causes Space Complexity?
+- Variables
+- Data Structures
+- Function Call
+- Allocations
+
+## 5) Full Cheat Sheet can be found by [clicking here] (https://www.bigocheatsheet.com/)
+
+
+
+
