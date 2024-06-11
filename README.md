@@ -1,5 +1,7 @@
+Big O Cheat Shet
+================================
 1) Big Os
-
+------------------
 - O(1) Constant – no loops
 - O(log N) Logarithmic – usually searching algorithms have log n if they are sorted (Binary Search)
 - O(n) Linear – for loops, while loops through n items
