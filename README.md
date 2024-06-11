@@ -1,6 +1,6 @@
-Big O Cheat Shet
+# Big O Cheat Shet
 ====
-1) Big Os
+## 1) Big Os
 ----
 - O(1) Constant – no loops
 - O(log N) Logarithmic – usually searching algorithms have log n if they are sorted (Binary Search)
@@ -13,14 +13,14 @@ nested loops
 
 Keep in mind: Iterating through half a collection is still O(n) / Two separate collections: O(a * b)
 
-2) Rule Book
+## 2) Rule Book
 ----
 - Rule 1: Always worst Case
 - Rule 2: Remove Constants
 - Rule 3:
-  \n\t • Different inputs should have different variables: O(a + b)
-  • A and B arrays nested would be: O(a * b)
-+ for steps in order
-* for nested steps
+  - Different inputs should have different variables: O(a + b)
+  - A and B arrays nested would be: O(a * b)
+    - for steps in order
+    - for nested steps
 - Rule 4: Drop Non-dominant terms
 
