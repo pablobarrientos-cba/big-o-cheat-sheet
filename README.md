@@ -10,7 +10,9 @@
 - **O(2^n) Exponential** – recursive algorithms that solves a problem of size N
 - **O(n!) Factorial** – you are adding a loop for every element
 
-**Keep in mind:** Iterating through half a collection is still O(n) / Two separate collections: O(a * b)
+**Keep in mind:** 
+- Iterating through half a collection is still O(n)
+- Two separate collections: O(a * b)
 
 ## **2) Rule Book**
 ----
